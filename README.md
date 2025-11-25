@@ -1,6 +1,6 @@
 # A Dual-Stream Regional Feature Learning and Adaptive Fusion Method for Electroencephalogram-based Emotion Recognition
 
-cite:
+Please cite:
 @article{yang2026dual,
   title={A dual-stream regional feature learning and adaptive fusion method for electroencephalogram-based emotion recognition},
   author={Yang, Yong and Wang, Wenhao and Shi, Kaibo and Xie, Yuanlun and Zhou, Nan and Wen, Shiping and Zhu, Ming and Chen, Badong},
